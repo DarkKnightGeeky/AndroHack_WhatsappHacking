@@ -1,4 +1,5 @@
 <p align="center">
+    
     <b>##AndroHack and WhatsappHacking Tool</b>
   <br></b>For Questions Telegram: https://t.me/cyberalphabit Email Me: darkknightgeeky@gmail.com
     <br><b>###Disclaimer<br> It is imperative to underscore the ethical and legal implications inherent in the utilization of AndroHack and WhatsappHacking Tool. Users must exercise caution and adhere to ethical guidelines, ensuring that the tool is deployed solely for authorized and legitimate purposes.<br>Adherence to ethical standards is paramount to safeguarding privacy and maintaining integrity within the realm of cybersecurity.</b>
