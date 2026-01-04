@@ -24,7 +24,6 @@ SOFTWARE.
 
 from ghost.core.console import Console
 
-
 def cli() -> None:
     """ AndroHack command-line interface.
 
@@ -33,3 +32,4 @@ def cli() -> None:
 
     console = Console()
     console.shell()
+
